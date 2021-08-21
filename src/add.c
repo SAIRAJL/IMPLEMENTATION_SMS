@@ -19,7 +19,7 @@
 int Add_Student(Student_t *Student) {
 
   FILE *fptr;
-  if ((fptr = fopen("Students.bin", "ab+")) == NULL) {
+  if ((fptr = fopen("Students.bin", "ab+") == NULL)) {
     return -1;
   }
   fwrite(Student, sizeof(Student_t), 1, fptr);
@@ -39,6 +39,5 @@ void create_new_Student(Student_t *Student) {
   get_data(Student->email_id);
     printf("\nEnter GPA: ");
   get_data(Student->GPA);
-    printf("\nEnter Sports: ");
-  get_data(Student->sports);
+  
 }
