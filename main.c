@@ -11,13 +11,13 @@
 #include<stdio.h>
 #include<string.h>
 #include<string.h>
+#include"help.h"
 /*#include"marks.h"
 #include"add.h"
 #include"edit.h"
 #include"find.h"
 #include"delet.h"
 #include"marks.h"
-#include"help.h"
 #include"list.h"
 #include"result.h"*/
 
