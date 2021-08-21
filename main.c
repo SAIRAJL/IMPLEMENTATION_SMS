@@ -131,9 +131,8 @@ int main()
             printf("4.delete a record\n");
             printf("5.add results\n");
             printf("6.help page\n");
-            printf("7.list students\n");
-            printf("8.display results\n");
-            printf("9.exit\n");
+            printf("7.display results\n");
+            printf("8.exit\n");
             scanf("%d",&option);
             switch(option)
             {
@@ -149,11 +148,9 @@ int main()
                 break;
                 case 6: help();
                 break;
-                case 7:list();
+                case 7: result();
                 break;
-                case 8: result();
-                break;
-                case 9: exit(0);
+                case 8: exit(0);
                 break;
                 default: printf("you have chosen the wrong option");
                 break;
