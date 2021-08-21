@@ -16,7 +16,7 @@
 #include"add.h"
 #include"edit.h"
 #include"find.h"
-#include"delet.h"
+#include"delete.h"
 #include"marks.h"
 #include"list.h"
 #include"result.h"*/
