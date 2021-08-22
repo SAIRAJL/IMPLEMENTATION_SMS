@@ -12,14 +12,14 @@
 #include<string.h>
 #include<string.h>
 #include"help.h"
-/*#include"marks.h"
+#include"marks.h"
 #include"add.h"
 #include"edit.h"
-#include"find.h"
+//#include"find.h"
 #include"delete.h"
 #include"marks.h"
 #include"list.h"
-#include"result.h"*/
+#include"result.h"
 
 struct main
 {
