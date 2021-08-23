@@ -19,9 +19,7 @@
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
 |  L_01       |  Adding  USN | User=>NUMERIC Number|SUCCESS|--- |REQUIREMENT  |
 |  L_02       | Adding  NAME| User=>ALPHABETIC Character |SUCCESS|---|REQUIREMENT|
-
 |  L_03       |  Adding email id|User=>ALPHANUMERIC character |SUCCESS|---|REQUIREMENT|
-
 |  L_04       | Adding GPA|User=> floating point |SUCCESS|---|REQUIREMENT|
 |  L_05       | adding SPORTS|User=> ALPHABETIC Character |SUCCESS|---|REQUIREMENT|
 |  L_06       | Adding STANDARD|User=>NUMERIC number|SUCCESS|---|REQUIREMENT|
